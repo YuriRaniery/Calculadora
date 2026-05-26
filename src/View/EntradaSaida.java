@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class EntradaSaida {
+class EntradaSaida {
     static void cout(String str) {
         System.out.print(str);
     }
